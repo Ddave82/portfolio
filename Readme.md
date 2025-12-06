@@ -2,8 +2,6 @@
 
 A modern, responsive portfolio website showcasing media design, web development, and coding skills.
 
-![Portfolio Preview](images/preview.png)
-
 ## 🔗 Live Demo
 
 👉 [Open the live site](https://Ddave82.github.io/portfolio/)
