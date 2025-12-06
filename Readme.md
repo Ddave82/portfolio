@@ -6,7 +6,7 @@ A modern, responsive portfolio website showcasing media design, web development,
 
 ## 🌐 Live Demo
 
-Visit the live site: [https://ddave82.github.io/portfolio](https://ddave82.github.io/portfolio)
+Visit the live site: [https://Ddave82.github.io/portfolio](https://Ddave82.github.io/portfolio)
 
 ## ✨ Features
 
