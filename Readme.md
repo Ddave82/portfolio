@@ -1,4 +1,4 @@
-# David Godbehere – Portfolio Website
+# Portfolio Website
 
 A modern, responsive portfolio website showcasing media design, web development, and coding skills.
 
