@@ -4,33 +4,30 @@ A modern, responsive portfolio website showcasing media design, web development,
 
 ![Portfolio Preview](images/preview.png)
 
----
+## 🔗 Live Demo
 
-## 🔗 Links
-
-- 🌐 **Live Demo:** https://ddave82.github.io/portfolio/
-- 💻 **Repository:** https://github.com/Ddave82/portfolio
+👉 [Open the live site](https://Ddave82.github.io/portfolio/)
 
 ---
 
 ## ✨ Features
 
-- **Modern Design:** Sleek dark theme with cyan accents and hexagon pattern background  
-- **Responsive Layout:** Fully responsive design that works on all devices  
-- **Interactive Experience:** Smooth animations, scroll effects, and hover interactions  
-- **Performance Optimized:** Lightweight and fast-loading  
-- **Accessible:** Semantic HTML and ARIA labels  
+- Modern dark theme with cyan accents and hexagon pattern background  
+- Fully responsive design that works on all devices  
+- Smooth animations, scroll effects, and hover interactions  
+- Lightweight, fast-loading code  
+- Semantic HTML and ARIA labels for improved accessibility  
 
 ---
 
 ## 🎨 Design Highlights
 
-- Custom **hexagon SVG pattern** background  
-- Animated **light sweep effect** (every 15 seconds)  
-- **Glassmorphism** UI elements with backdrop blur  
-- Smooth **scroll-reveal animations**  
-- Active navigation highlighting based on scroll position  
-- **Back-to-top button** for easy navigation  
+- Custom hexagon SVG background pattern  
+- Animated light sweep effect (every 15 seconds)  
+- Glassmorphism UI with backdrop blur  
+- Scroll-reveal animations on sections  
+- Active navigation highlighting while scrolling  
+- Back-to-top button for quick navigation  
 
 ---
 
@@ -38,7 +35,7 @@ A modern, responsive portfolio website showcasing media design, web development,
 
 - **HTML5** – Semantic markup  
 - **CSS3** – Custom properties, flexbox, grid, animations  
-- **Vanilla JavaScript** – Interactions without frameworks  
+- **Vanilla JavaScript** – Interactivity without frameworks  
 - **SVG** – Custom icons and graphics  
 
 ---
