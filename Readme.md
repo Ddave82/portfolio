@@ -1,57 +1,58 @@
-Portfolio Website
+# 🎛️ Portfolio Website
 
-A modern, responsive portfolio website showcasing media design, web design and coding skills.
+A modern, responsive portfolio website showcasing **media design**, **web design** and **coding** skills – in a dark, techy look with hexagon patterns and smooth animations.
 
-🔗 Live Demo
+---
 
-👉 Open the live site
+## 🔗 Live Demo
 
-✨ Features
+👉 **Open the live site**  
+_(Link hier einfügen, z. B. GitHub Pages / eigene Domain)_
 
-Modern dark theme with cyan accents and animated hexagon background
+---
 
-Fully responsive layout that works on desktop, tablet and mobile
+## ✨ Features
 
-Fixed desktop navigation with active section highlighting while scrolling
+- 🎨 **Modern dark theme** with cyan accents and subtle hexagon background  
+- 📱 **Fully responsive** layout for desktop, tablet and mobile  
+- 🧭 **Fixed navigation bar** with active section highlighting while scrolling  
+- 🍔 **Mobile navigation with hamburger menu**  
+  - Animated hamburger icon that morphs into a close button  
+  - Slide-in menu with blurred overlay and smooth link animations  
+- 🧊 **Glassmorphism UI** – soft borders, blur, glow on hover  
+- 📜 **Smooth scrolling** and scroll-reveal animations on key sections  
+- ⬆️ **Back-to-top button** for quick navigation  
+- ⚡ **Lightweight, framework-free code** (no React/Vue/etc.)  
+- ♿ **Semantic HTML & ARIA-friendly structure** for better accessibility  
 
-Animated mobile navigation: hamburger button that morphs into a close icon and opens a slide-in menu with blurred overlay and staggered link animations
+---
 
-Smooth scroll behaviour, subtle parallax effects and scroll-reveal animations
+## 🎨 Design Highlights
 
-Back-to-top button for quick navigation
+- 🕸️ **Custom hexagon SVG pattern** layered over a gradient background  
+- 💡 **Animated light-sweep effect** across the background (runs in intervals)  
+- 🧱 **Consistent spacing & typography scale** for a clean layout  
+- 🪟 **Card-based layout** for About, Services, Work, Process, Stack & Contact  
+- 🔁 **Subtle parallax & reveal effects** to keep the page dynamic but not noisy  
 
-Lightweight, fast-loading code without heavy frameworks
+---
 
-Semantic HTML and ARIA-friendly structure for better accessibility
+## 🛠️ Tech Stack
 
-🎨 Design Highlights
+- 🧩 **HTML5** – semantic sections & structure  
+- 🎚️ **CSS3** – custom properties, flexbox, grid, transitions & keyframe animations  
+- 📜 **Vanilla JavaScript** – scroll logic, navigation state, back-to-top & mobile menu  
+- 🧷 **SVG** – icons, background patterns and UI details  
 
-Custom hexagon SVG pattern layered with glow and parallax effects
+---
 
-Repeating diagonal light-sweep + reflection animation across the page background
+## 📂 Project Structure
 
-Glassmorphism-style cards with soft borders, blur and glow on hover
-
-Gradient-animated hero heading and glowing meta badges
-
-Consistent spacing system and responsive typography across all sections
-
-🛠️ Technologies Used
-
-HTML5 – Semantic markup and section structure
-
-CSS3 – Custom properties, flexbox, grid, animations and responsive layout
-
-Vanilla JavaScript – Scroll logic, navigation state, back-to-top and mobile menu
-
-SVG – Custom icons and background graphics
-
-📂 Project Structure
+```text
 .
-├── index.html          # Main entry point
-├── styles.css          # Global styles (layout, animations, theming, mobile menu)
-├── script.js           # Interactivity (scroll effects, nav, back-to-top, mobile menu)
-└── images/             # Images & assets
-    ├── logo.png
+├── index.html        # Main entry point
+├── styles.css        # Global styles, layout, theming, animations, mobile menu
+├── script.js         # Interactivity (scroll, nav, back-to-top, hamburger menu)
+└── images/           # Images & assets
     ├── preview.png
     └── ...
