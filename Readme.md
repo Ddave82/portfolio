@@ -1,50 +1,57 @@
-# Portfolio Website
+Portfolio Website
 
-A modern, responsive portfolio website showcasing media design, web development, and coding skills.
+A modern, responsive portfolio website showcasing media design, web design and coding skills.
 
-## 🔗 Live Demo
+🔗 Live Demo
 
-👉 [Open the live site](https://Ddave82.github.io/portfolio/)
+👉 Open the live site
 
----
+✨ Features
 
-## ✨ Features
+Modern dark theme with cyan accents and animated hexagon background
 
-- Modern dark theme with cyan accents and hexagon pattern background  
-- Fully responsive design that works on all devices  
-- Smooth animations, scroll effects, and hover interactions  
-- Lightweight, fast-loading code  
-- Semantic HTML and ARIA labels for improved accessibility  
+Fully responsive layout that works on desktop, tablet and mobile
 
----
+Fixed desktop navigation with active section highlighting while scrolling
 
-## 🎨 Design Highlights
+Animated mobile navigation: hamburger button that morphs into a close icon and opens a slide-in menu with blurred overlay and staggered link animations
 
-- Custom hexagon SVG background pattern  
-- Animated light sweep effect (every 15 seconds)  
-- Glassmorphism UI with backdrop blur  
-- Scroll-reveal animations on sections  
-- Active navigation highlighting while scrolling  
-- Back-to-top button for quick navigation  
+Smooth scroll behaviour, subtle parallax effects and scroll-reveal animations
 
----
+Back-to-top button for quick navigation
 
-## 🛠️ Technologies Used
+Lightweight, fast-loading code without heavy frameworks
 
-- **HTML5** – Semantic markup  
-- **CSS3** – Custom properties, flexbox, grid, animations  
-- **Vanilla JavaScript** – Interactivity without frameworks  
-- **SVG** – Custom icons and graphics  
+Semantic HTML and ARIA-friendly structure for better accessibility
 
----
+🎨 Design Highlights
 
-## 📂 Project Structure
+Custom hexagon SVG pattern layered with glow and parallax effects
 
-```text
+Repeating diagonal light-sweep + reflection animation across the page background
+
+Glassmorphism-style cards with soft borders, blur and glow on hover
+
+Gradient-animated hero heading and glowing meta badges
+
+Consistent spacing system and responsive typography across all sections
+
+🛠️ Technologies Used
+
+HTML5 – Semantic markup and section structure
+
+CSS3 – Custom properties, flexbox, grid, animations and responsive layout
+
+Vanilla JavaScript – Scroll logic, navigation state, back-to-top and mobile menu
+
+SVG – Custom icons and background graphics
+
+📂 Project Structure
 .
 ├── index.html          # Main entry point
-├── styles.css          # Global styles
-├── script.js           # Interactivity & animations
+├── styles.css          # Global styles (layout, animations, theming, mobile menu)
+├── script.js           # Interactivity (scroll effects, nav, back-to-top, mobile menu)
 └── images/             # Images & assets
+    ├── logo.png
     ├── preview.png
     └── ...
