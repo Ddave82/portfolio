@@ -7,8 +7,7 @@ A modern, responsive portfolio website showcasing **media design**, **web design
 ## 🔗 Live Demo
 
 👉 **Open the live site**  
-_(Link hier einfügen, z. B. GitHub Pages / eigene Domain)_
-
+https://ddave82.github.io/portfolio/)
 ---
 
 ## ✨ Features
